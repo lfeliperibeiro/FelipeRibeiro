@@ -1,15 +1,61 @@
-<h1 align="center">Hi👋,I'm Luiz Felipe Ribeiro</h1>
-<h3 align="center">Web developer in São Paulo, Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lfeliperibeiro" alt="lfeliperibeiro" /> </p>
+<h1 align='center'> Hi there 👋, I'm Felipe 💻 </h1>
 
-- 🔭 I’m currently working on [Foodfy](https://github.com/lfeliperibeiro/Foodfy)
-
-- 💬 Ask me about **React-Native**
-
-- 📫 How to reach me **piporibeiro@gmail.com**
-
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lfeliperibeiro&show_icons=true" alt="lfeliperibeiro" /> </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lfeliperibeiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/lfeliperibeiro/" height="20" width="20" /></a>
+<p align='center'>
+  I live on São Paulo, Brazil  
 </p>
+
+<!-- <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
+</p> -->
+
+
+
+  <a href="https://www.linkedin.com/in/lfeiperibeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:piporibeiroa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+<hr>
+
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+<h4> 🔭 I’m currently working with ...</h4>
+
+
+<h5> Frontend</h5>
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+
+
+<h4>🌱 I'm currently learning...</h4>
+<p >
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
+
+

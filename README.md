@@ -53,6 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/reactnative%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jest%20-%23e34f26.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/graphql%20-%23cc6699.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/tailwindcss%20-%2361DAFB.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
